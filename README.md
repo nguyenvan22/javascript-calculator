@@ -23,11 +23,14 @@ https://nguyenvan22.github.io/javascript-calculator/
 2. Open `index.html` in a browser
 
 ## Project Structure
-.
+
+```text
+javascript-calculator/
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+├── README.md
+└── LICENSE
 
 ## License
 MIT License
