@@ -22,16 +22,6 @@ https://nguyenvan22.github.io/javascript-calculator/
 1. Download or clone the repo
 2. Open `index.html` in a browser
 
-## Project Structure
-
-```text
-javascript-calculator/
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-└── LICENSE
-
 ## License
 MIT License
 
